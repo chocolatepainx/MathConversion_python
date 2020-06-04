@@ -1,4 +1,4 @@
 ## Conversions 
 
-One File is a sample of how to convert heights from feet & inches to centimeters.
-Second File is a sample of how to convert weights from lbs to kg.
+ex5: this line is converting your height feet, inches, and cm
+ex6: Converting weights from lbs to kg.
